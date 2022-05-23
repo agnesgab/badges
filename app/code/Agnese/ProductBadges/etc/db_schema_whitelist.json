@@ -1,0 +1,12 @@
+{
+    "badges": {
+        "column": {
+            "id": true,
+            "title": true,
+            "image_url": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
